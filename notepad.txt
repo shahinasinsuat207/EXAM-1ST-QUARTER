@@ -1,0 +1,22 @@
+<html>
+<body>
+<center><table border="1">
+<tr>
+<td colspan="4">
+<h1><center><font color="red"> Shahina O. Sinsuat </h1></center></font>
+</td>
+</tr>
+<tr>
+<td colspan="1">
+<p><center> 11- St. Blaise </center></p> 
+<p><h1><font color="red"><marquee direction="down">Death is not the,It's the beginning of forever.</marquee><font><h1></p>
+<td><img src="file:///C:/Users/station7/Pictures/logo.jpg" width="450"></center>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<center>
+<a href="http://www.rvmonline.net/ndrvmcc/"> NDRVMCC </a>
+</center>
+</td>
+</tr>
